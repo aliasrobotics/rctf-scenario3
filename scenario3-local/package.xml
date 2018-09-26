@@ -1,0 +1,10 @@
+<package format="2">
+  <name>scenario3</name>
+  <version>0.0.1</version>
+  <description>
+    Scenario 3 Robotics CTF
+  </description>
+  <maintainer email="gorka@aliasrobotics.com">Gorka Olalde</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
